@@ -19,6 +19,7 @@ public class Main {
         nis.avanzar();
 
         System.out.println("Velocidad Máxima: " + nis.getdVelocidadMaxima());
+        System.out.println("Editado por Allison Trelles");
 
 /*
         Auto auto1 = new Auto();
